@@ -4,4 +4,5 @@ But if you are go for it.
 You can even test it in a VM if you think this is a virus.
 It will open a cmd prompt first before enabling the wallpaper.
 Just click any key on your keyboard to change your wallpaper.
+And then you are all good to go!
 Thank you for reading!
